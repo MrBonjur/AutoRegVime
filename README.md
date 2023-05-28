@@ -1,4 +1,4 @@
-# Bypass captcha and register account
+# Bypass captcha and register account from VimeWorld
 ![изображение](https://github.com/MrBonjur/AutoRegVime/assets/55990897/da54550a-1e24-4ee7-b6b3-a194eaba8337)
 
 ### Dependencies:
