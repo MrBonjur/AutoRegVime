@@ -2,8 +2,7 @@ import twocaptcha  # pip install 2captcha-python
 import requests
 import config
 
-api_key = config.api_key  # https://rucaptcha.com/enterpage
-solver = twocaptcha.TwoCaptcha(api_key)
+solver = twocaptcha.TwoCaptcha(config.api_key)  # https://rucaptcha.com/enterpage
 
 
 def get_captcha_code() -> str:
