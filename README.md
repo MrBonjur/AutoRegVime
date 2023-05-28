@@ -7,9 +7,9 @@
 * buy balance -> https://rucaptcha.com/enterpage
 ---
 # Easy and fast
-* Fill config.py using token from https://rucaptcha.com/
+1) Fill config.py using token from https://rucaptcha.com/
 
-Start in code:
+2) Start in code:
 ```
 register_account(nick="ExampleNick")
 ```
